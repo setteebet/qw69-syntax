@@ -1,0 +1,18 @@
+{
+  "name": "qw69-syntax",
+  "theme": "syntax",
+  "version": "0.1.1",
+"description": "การซื้อสลากกินแบ่งรัฐบาลออนไลน์✔️ ❤️ ♕ เว็บหวยออนไลน์ มีหวยให้เล่นครบทุกชนิด ตลอด 24 ชั่วโมง",
+"keywords": [
+"การซื้อสลากกินแบ่งรัฐบาลออนไลน์",
+"หวยฮานอยออนไลน์",
+"vip lottovip",
+"เว็บเล่นหวยลาว",
+"หวยลาวดีไหม"
+],
+  "repository": "https://github.com/setteebet/qw69-syntax.git",
+  "license": "MIT",
+  "engines": {
+"atom": ">=1.0.0 <2.0.0"
+}
+}
